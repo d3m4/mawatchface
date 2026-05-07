@@ -29,6 +29,9 @@ desktop.ini
 # Superpowers brainstorming companion
 .superpowers/
 
+# Specs e planos locais (nao publicar no repositorio)
+docs/superpowers/
+
 # Claude Code
 .claude/
 
