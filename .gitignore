@@ -1,0 +1,41 @@
+# Android / Gradle
+/build/
+**/build/
+/captures/
+.gradle/
+.cxx/
+local.properties
+*.iml
+*.apk
+*.aab
+*.dex
+*.class
+*.jar
+*.war
+
+# IntelliJ / Android Studio
+.idea/
+*.swp
+*.bak
+
+# Kotlin
+.kotlin/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Superpowers brainstorming companion
+.superpowers/
+
+# Claude Code
+.claude/
+
+# Env / credenciais
+.env
+.env.local
+.env.*.local
+*.keystore
+*.jks
+keystore.properties
